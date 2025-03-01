@@ -14,7 +14,7 @@
 ## Contacts
 [Discord](https://discord.gg/ZqS836yx9k)
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+[Youtube](https://youtube.com/c/MintBloxOffical)
 
 ## Usage
 1. Download the specific scripting utility of your choice.
